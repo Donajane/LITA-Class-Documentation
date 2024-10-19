@@ -1,4 +1,4 @@
-# LITA-Class-Documentation
+ # LITA-Class-Documentation
 
 ### Project Title: Data Analysis 
 
@@ -12,3 +12,8 @@ This Data Analysis project shows and comprises of data and tools used for traini
      3. For Data Visualization
 - SQL- Structured Query Language for QUering of Data
 - Github for Portfolio Building
+
+```SQL
+SELECT * FROM TABLE1#
+WHERE CONDITION = TRUE
+```
