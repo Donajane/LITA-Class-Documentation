@@ -22,3 +22,9 @@ WHERE CONDITION = TRUE
 ![Screenshot 2024-01-08 221504](https://github.com/user-attachments/assets/f0bab489-b902-4cec-8026-9d25968830d7)
 ![Screenshot 2024-01-07 233005](https://github.com/user-attachments/assets/1884ed5e-1397-426b-bafb-1e61326b34a8)
 ![Screenshot 2024-01-12 214330](https://github.com/user-attachments/assets/202e4e25-8217-40d1-b06a-7e898f381be0)
+
+💻
+😆
+|heading 1|heading 2|heading 3|
+|---------|---------|---------|
+|Table 1|Table 2| Table 3|
