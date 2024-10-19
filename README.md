@@ -1,7 +1,7 @@
  # LITA-Class-Documentation
 
 ### Project Title: Data Analysis 
-
+---
 #### Project Overview
 This Data Analysis project shows and comprises of data and tools used for training.
 
