@@ -17,3 +17,5 @@ This Data Analysis project shows and comprises of data and tools used for traini
 SELECT * FROM TABLE1#
 WHERE CONDITION = TRUE
 ```
+### DATA VISUALIZATION
+![Screenshot 2023-07-22 213045](https://github.com/user-attachments/assets/3c081312-6ac0-4b43-aa70-2093f1a61496)
